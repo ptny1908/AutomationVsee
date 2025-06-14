@@ -1,7 +1,7 @@
 @ProviderAndCustomer
 
 Feature: Verify interaction between Provider and Customer
-@grid
+#@grid
 #  Scenario with grid will run with Grid selenium
   Scenario: TC-1: Verify Provider and Customer make a call and end call
     Given I open Customer and Provider page
